@@ -66,6 +66,3 @@ We welcome contributions to improve the test suite. Please follow these steps to
     ```
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
