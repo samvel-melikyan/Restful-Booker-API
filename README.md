@@ -36,7 +36,7 @@ To set up the test environment, follow these steps:
 
 To run the tests, use the following command:
 ```sh
-npm test
+npx playwright test
 ```
 
 ## Test Structure
